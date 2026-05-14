@@ -1,0 +1,1 @@
+[{'name': '小明', 'age': 18, 'gender': '男', 'mobile': '10086', 'description': '算法工程师'},{'name': '小灰', 'age': 18, 'gender': '男', 'mobile': '10010', 'description': '程序员'},{'name': '小红', 'age': 16, 'gender': '女', 'mobile': '10000', 'description': '程序媛'}]

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.idea/
+.ipynb_checkpoints/
+.pytest_cache/
+*.xlsx
+*.png
+*.pkl
+ML_project/data/手 写 数 字 识 别 .csv
+
+# 敏感文件
+ai_t.py
+提示词工程/.env
