@@ -5,11 +5,22 @@ __pycache__/
 .ipynb_checkpoints/
 .pytest_cache/
 *.xlsx
-
+*.png
 *.pkl
-ML_project/data/手 写 数 字 识 别 .csv
-*/model
-*pth
+*.pth
+
+# 大文件数据（CSV/二进制数据集）
+ML_project/data/手写数字识别.csv
+DL_project/data/cifar-10-batches-py/
+data/winemag-data_first150k.csv
+data/directory.csv
+data/city_day.csv
+上课代码/movie.csv
+上课代码/movies.csv
+
+# AI / IDE tooling
+.claude/
+
 # 敏感文件
 ai_t.py
 提示词工程/.env
