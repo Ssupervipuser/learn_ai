@@ -9,18 +9,16 @@ __pycache__/
 *.pkl
 *.pth
 
-# 大文件数据（CSV/二进制数据集）
+# 大文件数据（CSV/二进制数据集）>20MB
 ML_project/data/手写数字识别.csv
 DL_project/data/cifar-10-batches-py/
 data/winemag-data_first150k.csv
-data/directory.csv
-data/city_day.csv
-上课代码/movie.csv
-上课代码/movies.csv
 
 # AI / IDE tooling
 .claude/
 
 # 敏感文件
 ai_t.py
+auto_submit.py
+AGENTS.md
 提示词工程/.env
